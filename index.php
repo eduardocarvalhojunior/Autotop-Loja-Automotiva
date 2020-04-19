@@ -1,3 +1,5 @@
+
+
 <?php require_once("./inc/head.php"); ?>
 
 <?php require_once("./inc/header.php"); ?>
@@ -39,7 +41,63 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+<main class="container" class=row>
+<section in=serviços>
+<h1 class="col-12 text-center text-info mt-5 mb-3"> Serviços </h1>
+<div class="card-deck">
+  <div class="card">
+    <img class="card-img-top" src="img/aparelho.jpeg" alt="Imagem de capa do card">
+    <div class="card-body">
+      <h5 class="card-title">Análise do Sistema de Injeção</h5>
+      <p class="card-text">Fazemos análise e diagnóstico do sistema de injeção eletrônica completo.</p>
+      <p class="card-text"><small class="text-muted">Tempo médio de serviço: 2 horas. </small></p> 
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="img/correia.jpeg" alt="Imagem de capa do card">
+    <div class="card-body">
+      <h5 class="card-title">Troca de Correia Dentada</h5>
+      <p class="card-text">Troca da correia dentada e rolamento tensor.</p>
+      <p class="card-text"><small class="text-muted">Tempo médio de Serviço: 1 hora e 30 minutos.</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="img/preventiva.jpeg" alt="Imagem de capa do card">
+    <div class="card-body">
+      <h5 class="card-title">Manutenção Preventiva</h5>
+      <p class="card-text"> Marque sua manutenção preventiva alguns dias antes de pegar a estrada.</p>
+      <p class="card-text"><small class="text-muted">Tempo médio de serviço: 4 horas</small></p>
+    </div>
+  </div>
+</div>
+<h1 class="col-12 text-center text-info mt-5 mb-3"> Especialidades </h1>
+<div class="card-deck">
+  <div class="card">
+    <img class="card-img-top" src="img/analise.jpeg" alt="Imagem de capa do card">
+    <div class="card-body">
+      <h5 class="card-title">Manutenção do Sistema Partida</h5>
+      <p class="card-text">Teste e correção de todo o sistema elétrico de iginição e combustão.</p>
+      <p class="card-text"><small class="text-muted">Tempo médio de serviço: 3 horas.</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="img/manutencao.jpeg" alt="Imagem de capa do card">
+    <div class="card-body">
+      <h5 class="card-title">Limpeza do Sistema de Injeção de Combustivel</h5>
+      <p class="card-text"> Manutenção preventiva e corretiva de todo o sistema de injeção de combustivel.</p>
+      <p class="card-text"><small class="text-muted">Tempo médio de serviço: 2 horas.</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="img/injeção.jpeg" alt="Imagem de capa do card">
+    <div class="card-body">
+      <h5 class="card-title">Correção dos Sistemas Elétricos</h5>
+      <p class="card-text">Tão importante quanto a parte mecanica do carro a parte elétrica em dia evita que você fique na mão.</p>
+      <p class="card-text"><small class="text-muted">Tempo médio de serviço: 3 horas.</small></p>
+    </div>
+  </div>
+</div>
+</section>
 
 <?php require_once("./inc/footer.php"); ?>
    
