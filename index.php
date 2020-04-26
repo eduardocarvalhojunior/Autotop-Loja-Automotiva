@@ -84,7 +84,7 @@
     <img class="card-img-top" src="img/manutencao.jpeg" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Limpeza do Sistema de Injeção de Combustivel</h5>
-      <p class="card-text"> Manutenção preventiva e corretiva de todo o sistema de injeção de combustivel.</p>
+      <p class="card-text"> Manutenção preventiva e corretiva do sistema de injeção de combustível.</p>
       <p class="card-text"><small class="text-muted">Tempo médio de serviço: 2 horas.</small></p>
     </div>
   </div>
@@ -92,7 +92,7 @@
     <img class="card-img-top" src="img/injeção.jpeg" alt="Imagem de capa do card">
     <div class="card-body">
       <h5 class="card-title">Correção dos Sistemas Elétricos</h5>
-      <p class="card-text">Tão importante quanto a parte mecanica do carro a parte elétrica em dia evita que você fique na mão.</p>
+      <p class="card-text">É importante também a parte mecanica do carro a parte elétrica em dia evita que você fique na mão.</p>
       <p class="card-text"><small class="text-muted">Tempo médio de serviço: 3 horas.</small></p>
     </div>
   </div>
