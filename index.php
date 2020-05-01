@@ -43,8 +43,9 @@
 </div>
 <main class="container" class=row>
 <section in=serviços>
-<h1 class="col-12 text-center text-info mt-5 mb-3">Serviços</h1>
-
+<h1 class="col-12 text-center text-info mt-5 mb-4">Serviços</h1>
+<style> .h1{position:relative}h1:before{content: "";display:block;width:380px;height:1px;background:gray;position: absolute;left: 0;top: 50%;z-index: -2;}h1:after{content: ""; display:block;width: 380px;height:1px;background: grey;position: absolute;right: 0;top: 50%;z-index: -2;}
+</style>
 <div class="card-deck">
   <div class="card">
     <img class="card-img-top" src="img/aparelho.jpeg" alt="Imagem de capa do card">
@@ -71,7 +72,7 @@
     </div>
   </div>
 </div>
-<h1 class="col-12 text-center text-info mt-5 mb-3">Especialidades</h1>
+<h1 class="col-12 text-center text-info mt-5 mb-4">Especialidades</h1>
 <div class="card-deck">
   <div class="card">
     <img class="card-img-top" src="img/analise.jpeg" alt="Imagem de capa do card">
