@@ -11,21 +11,21 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="img/bmw.jpeg" class="d-block w-100" width="" height="" alt="">
+      <img src="img/bmw.jpeg" class="d-block w-100" height="600px">
       <div class="carousel-caption d-none d-md-block">
         <h5>Não tenha medo</h5>
         <p>Se Surpreenda com o novo</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/urus.jpeg" class="d-block w-100" alt="...">
+      <img src="img/urus.jpeg" class="d-block w-100" height="600px">
       <div class="carousel-caption d-none d-md-block">
         <h5>A escolha é sua</h5>
         <p>Acredite, arrisque e siga em frente</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/lexus.jpeg" class="d-block w-100" alt="...">
+      <img src="img/lexus.jpeg" class="d-block w-100" height="600px">
       <div class="carousel-caption d-none d-md-block">
         <h5>Você está no comando</h5>
         <p>Não deixo nada para o amanhã</p>
