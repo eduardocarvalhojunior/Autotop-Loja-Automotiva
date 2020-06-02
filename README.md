@@ -6,6 +6,10 @@
 - CSS3
 - Bootstrap
 
+
+---
+
+
 - [x] Planejamento
 
 - [x] Extrutura da Pagina HOME
