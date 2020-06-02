@@ -6,23 +6,23 @@
 - CSS3
 - Bootstrap
 
-- [ ] Planejamento
+- [x] Planejamento
 
-- [ ] Extrutura da Pagina HOME
+- [x] Extrutura da Pagina HOME
 
-- [ ] Desenvolver a Pagina HOME
+- [x] Desenvolver a Pagina HOME
 
-- [ ] Extrutura pagina LOGIN
+- [x] Extrutura pagina LOGIN
 
-- [ ] Extrutura do Carousel
+- [x] Extrutura do Carousel
 
-- [ ] Estilos e Cores
+- [x] Estilos e Cores
 
-- [ ] Inserir Textos Principais
+- [x] Inserir Textos Principais
 
-- [ ] Inserir Fotos
+- [x] Inserir Fotos
 
-- [ ] Finalizar o Footer
+- [x] Finalizar o Footer
 
 
 
