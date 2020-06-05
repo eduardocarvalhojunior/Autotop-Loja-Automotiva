@@ -5,6 +5,7 @@
 - HTML5
 - CSS3
 - Bootstrap
+- PHP
 
 
 ---
@@ -41,4 +42,4 @@
 #### Autor
 ---
 
-[Eduardo Carvalho] https://github.com/eduardocarvalhojunior
+[Eduardo Carvalho](https://github.com/eduardocarvalhojunior)
