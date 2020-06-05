@@ -40,6 +40,5 @@
 ---
 
 #### Autor
----
 
 [Eduardo Carvalho](https://github.com/eduardocarvalhojunior)
