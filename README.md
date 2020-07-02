@@ -1,5 +1,17 @@
 ### Site Loja Automotiva Auto Top
 
+
+
+---
+
+
+![auto top 2](https://user-images.githubusercontent.com/60022350/83482430-a89a4480-a476-11ea-81b3-6710c26515cd.gif)
+
+
+
+---
+
+
 ## - Ferramentas Utilizadas  
 
 - HTML5
@@ -29,15 +41,6 @@
 
 - [x] Finalizar o Footer
 
-
----
-
-
-![auto top 2](https://user-images.githubusercontent.com/60022350/83482430-a89a4480-a476-11ea-81b3-6710c26515cd.gif)
-
-
-
----
 
 #### Autor
 
