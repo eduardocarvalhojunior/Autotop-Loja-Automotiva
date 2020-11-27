@@ -2,6 +2,7 @@
 
 
 
+
 ---
 
 
@@ -12,12 +13,16 @@
 ---
 
 
+
 ## - Ferramentas Utilizadas  
+
+
 
 - HTML5
 - CSS3
 - Bootstrap
 - PHP
+
 
 
 ---
@@ -42,6 +47,9 @@
 - [x] Finalizar o Footer
 
 
+
+
 #### Autor
+
 
 [Eduardo Carvalho](https://github.com/eduardocarvalhojunior)
